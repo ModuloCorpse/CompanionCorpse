@@ -1,6 +1,6 @@
-﻿namespace CompanionCorpse
+﻿namespace CorpseRemote
 {
-    public class ButtonAction : ACompanionAction
+    public class ButtonAction : ARemoteAction
     {
         public ButtonAction(string actionID) : base(actionID)
         {

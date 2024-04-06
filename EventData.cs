@@ -1,4 +1,4 @@
-﻿namespace CompanionCorpse
+﻿namespace CorpseRemote
 {
     public class EventData
     {
