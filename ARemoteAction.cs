@@ -1,4 +1,4 @@
-﻿namespace CorpseRemote
+﻿namespace CorpseLib.Remote
 {
     public abstract class ARemoteAction(string actionID)
     {

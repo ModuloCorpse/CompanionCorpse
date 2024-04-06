@@ -1,4 +1,4 @@
-﻿namespace CorpseRemote
+﻿namespace CorpseLib.Remote
 {
     public class ButtonAction : ARemoteAction
     {
